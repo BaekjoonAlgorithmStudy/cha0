@@ -1,4 +1,4 @@
-package one;
+package level01_io;
 
 public class HelloWorld {
 	public static void main(String[] args) {

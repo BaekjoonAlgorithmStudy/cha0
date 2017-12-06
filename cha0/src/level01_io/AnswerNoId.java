@@ -1,4 +1,4 @@
-package one;
+package level01_io;
 
 public class AnswerNoId {
 	public static void main(String[] args) {

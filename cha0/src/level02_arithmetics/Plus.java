@@ -1,4 +1,4 @@
-package two;
+package level02_arithmetics;
 
 import java.util.Scanner;
 

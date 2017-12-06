@@ -1,4 +1,4 @@
-package three;
+package level03_for;
 
 import java.util.Scanner;
 
